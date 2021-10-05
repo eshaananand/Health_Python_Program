@@ -1,0 +1,20 @@
+# Health App
+
+This is a simple python software that uses pygame audio to alarm or warn the individual with personalised music over a set period of time, and can be stopped by typing a specific keyword.
+
+
+Basically this software consist of three audio files 
+one for eye relaxation , another for exercise reminder and another for drink water reminder.
+
+One can set the duration of time (in second) for particular tasks and the software will play the respective songs accordingly and 
+to stop the audio one have to type the shown key word to stop it.
+
+
+
+
+# App for Health
+This is a simple python programme that uses pygame audio to alarm or warn the user with personalised music for a certain amount of time,
+ and can be stopped by typing a specific keyword. This app basically consists of three audio files: one for eye relaxation, one for workout reminder, 
+and one for drink water reminder.
+One can choose the period of time (in seconds) for specific jobs, and the software will play the appropriate music. 
+To stop the audio, one must type the provided key word.
